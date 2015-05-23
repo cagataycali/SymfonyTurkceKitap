@@ -1,5 +1,5 @@
 # Summary
 
-* [introduction](README.md)
+* [Önsöz](README.md)
 * [Birinci Bölüm](bölüm1.md)
 
