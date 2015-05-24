@@ -4,4 +4,5 @@
 * Bölüm 1
    * [Kurulum](kurulum.md)
    * [Kavramlar](kavramlar.md)
+   * Dizinler
 
