@@ -1,6 +1,4 @@
-Kurulum
--------------
-
+#Kurulum
 Symfony kendi kurulum yardımcısıyla hızlı bir şekilde kurulabilir.
 
 
