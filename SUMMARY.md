@@ -2,5 +2,5 @@
 
 * [Önsöz](README.md)
 * Bölüm 1
-   * Kurulum
+   * [Kurulum](kurulum.md)
 
