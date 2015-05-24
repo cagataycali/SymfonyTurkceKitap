@@ -1,5 +1,4 @@
 # Kavramlar
-
 Symfony Türkçe Kitabında kullanacağım kavramlar temel olarak şunlardır.
 
 **Twig;** Twig bir php tema motorudur.Html sayfaları içerisine php kodu yazılmadan php çalıştırılmasına yarar.Örnek kullanımı şu şekildedir.
