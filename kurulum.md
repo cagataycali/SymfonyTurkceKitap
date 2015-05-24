@@ -1,3 +1,0 @@
-# Kurulum
-
-Kurulum
