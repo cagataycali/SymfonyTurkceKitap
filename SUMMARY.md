@@ -1,4 +1,4 @@
-# Summary
+# Özet
 
 * [Önsöz](README.md)
 
