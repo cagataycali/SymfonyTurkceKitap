@@ -6,3 +6,5 @@ Bu insanın elinde bir oyuncak bebek olsun.Bu bebek bizim projemizdeki bundle ya
 Projemizi bundle adı verilen yapı altında geliştireceğiz.
 
 Dizinleri insana benzeterek daha akılda kalıcı bir anlatım yapacağım.
+
+İlk olarak **app** dizini;
