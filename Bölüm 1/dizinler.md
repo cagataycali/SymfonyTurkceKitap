@@ -1,3 +1,4 @@
 # Dizinler
+Konuya giriş yapmadan önce symfony'i bir insan olarak hayal edelim.
 
-dizinler içerik
+Bu insanın elinde bir oyuncak bebek olsun.Bu bebek bizim projemizdeki bundle yani kod bohçası.
