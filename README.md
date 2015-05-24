@@ -21,6 +21,5 @@ Symfony php'de olmayan standartları getiriyor ve bunları dayatıyor.Kusursuz k
 
 Giriş işlemleri için ayrı,fotoğraf yüklemek için ayrı veya soap istemcisine bağlanmak için class yazmak zorunluluğu gütmeden dışarıdan hazır olarak projemizde güvenle kullanabiliyoruz.
 
-Lafı daha fazla uzatmadan anlatımlara geçelim.
 
 
