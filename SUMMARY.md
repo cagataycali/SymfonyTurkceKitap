@@ -2,7 +2,7 @@
 
 * [Önsöz](README.md)
 * [Bölüm 1](bolum_1.md)
-   * [Kurulum](kurulum.md)
+   * [Kurulum](kurulummd.md)
    * [Kavramlar](kavramlar.md)
    * Dizinler
 
