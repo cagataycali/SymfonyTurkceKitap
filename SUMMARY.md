@@ -6,4 +6,5 @@
    * [Kavramlar](kavramlarmd.md)
    * [Dizinler](dizinler.md)
 * Bölüm 2
+   * Başlangıç
 
