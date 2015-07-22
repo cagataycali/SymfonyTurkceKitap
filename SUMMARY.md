@@ -6,5 +6,5 @@
    * [Kavramlar](kavramlarmd.md)
    * [Dizinler](dizinler.md)
 * [Bölüm 2](bolum_2.md)
-   * Başlangıç
+   * [Başlangıç](baslangic.md)
 
