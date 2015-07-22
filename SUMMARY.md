@@ -5,6 +5,6 @@
    * [Kurulum](kurulummd.md)
    * [Kavramlar](kavramlarmd.md)
    * [Dizinler](dizinler.md)
-* Bölüm 2
+* [Bölüm 2](bolum_2.md)
    * Başlangıç
 
