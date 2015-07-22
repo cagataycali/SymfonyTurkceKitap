@@ -6,7 +6,6 @@
    * [Kavramlar](kavramlarmd.md)
    * [Dizinler](dizinler.md)
 * [Bölüm 2](bolum_2.md)
-   * [Başlangıç](baslangic.md)
    * [Bundle Kavramı](bundle_kavrami.md)
    * [Entity Kavramı](entity_kavrami.md)
 * [Bölüm 3](bolum_3.md)
