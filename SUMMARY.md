@@ -8,5 +8,5 @@
 * [Bölüm 2](bolum_2.md)
    * [Başlangıç](baslangic.md)
    * [Bundle Kavramı](bundle_kavrami.md)
-   * Entity Kavramı
+   * [Entity Kavramı](entity_kavrami.md)
 
