@@ -6,4 +6,4 @@ Yeni bundle oluşturmak için :
 
 ```php app/console generate:bundle ```
 
-![![](2.png)](1.png)
+
