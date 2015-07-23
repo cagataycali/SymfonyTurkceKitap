@@ -19,3 +19,4 @@ Composer birçok ek paketi projemize eklerken bize **yardımcı olan bir araçt�
    * ```php -r "readfile('https://getcomposer.org/installer');" | php``` 
 
 
+Composer kurulumu bukadar !
