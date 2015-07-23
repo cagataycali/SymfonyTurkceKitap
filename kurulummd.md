@@ -20,10 +20,16 @@ symfony new yeni_symfony_projem
 ```
 Satırını terminale işlediğinizde projeniz o isimle bulunduğunuz dizinde kurulacaktır.Bulunduğunuz dizine yazma izinlerini vermeyi unutmayın.Aksi taktirde yazma ve silme işlemleri yapılamayacaktır.
 
+![](symfony kurulum.png)
+
+
 Linux'da dizine erişim izni için;
 ```
 chmod -R 777 /var/www/html
 ```
+Mac OS X 'de dizine erişim izni için;
+
+```chmod -R 777 /Applications/MAMP/htdocs ```
 
 
 
