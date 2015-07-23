@@ -4,7 +4,7 @@ Composer,yazılım projemizde gerekli olan kütüphanelerin kurulumu & güncelle
 
 Elle işlemleri teker teker yapmak yerine composer yardımıyla hızlıca kütüphanelerimizi güncel tutabiliriz.
 
-Composer birçok ek paketi projemize eklerken bize yardımcı olan bir araçtır.Hızlıca kuruluma geçelim.
+Composer birçok ek paketi projemize eklerken bize **yardımcı olan bir araçtır.**Hızlıca kuruluma geçelim.
 
 Terminalde kuracağımız dizine yani projemizin dizinine gelelim.
 
