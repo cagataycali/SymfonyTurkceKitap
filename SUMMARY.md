@@ -5,6 +5,7 @@
    * [Kurulum](kurulummd.md)
    * [Kavramlar](kavramlarmd.md)
    * [Dizinler](dizinler.md)
+   * Composer Kurulumu
 * [Bölüm 2](bolum_2.md)
    * [Bundle Kavramı](bundle_kavrami.md)
    * [Entity Kavramı](entity_kavrami.md)
