@@ -30,3 +30,6 @@ Akış aşağıdaki gibi olacaktır.
 
 Son üç adımda enter tuşuna basıp bundle kurulumunu tamamlıyoruz.Ardından dosya dizinlerine erişim için tekrardan ```chmod -R 777 /Applications/MAMP/htdocs```
 yazıyoruz.
+
+Bundle şuanda src dizininin altında yer almakta!
+![](Ekran Resmi 2015-07-23 14.24.53.png)
