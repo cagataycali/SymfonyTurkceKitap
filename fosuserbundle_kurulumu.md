@@ -169,3 +169,37 @@ fos_user:
     resource: "@FOSUserBundle/Resources/config/routing/all.xml"```
     
     
+### Adım 6
+
+Son olarak fos user bundle kullanıcı sınıfını kullanabilmek için veritabanımızın yapısını güncelliyoruz.
+
+* Doctrine ORM
+
+```
+php app/console doctrine:schema:update --force
+```
+* MongoDB
+
+```
+php app/console doctrine:mongodb:schema:create --index```
+
+* Propel 
+
+```
+php composer.phar require willdurand/propel-typehintable-behavior```
+
+Ardından,
+
+```php app/console propel:build```
+
+İşlem tamamdır!
+
+Fos user bundle girişi artık şuradadır;
+```
+ http://app.com/app_dev.php/login```
+ 
+Kayıt olmak için;
+
+``` http://app.com/app_dev.php/register```
+
+İlgili route'ları bir sonraki yazıda inceleyeceğiz.
