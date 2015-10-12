@@ -10,7 +10,7 @@ Composer yardımıyla fos user bundle'ı projemize dahil edelim.
 
 ### Adım 2
 
-Ek paketimizi proje çekirdeğinde aktifleştirelim
+Ek paketimizi proje çekirdeğinde aktifleştirelim.
 
 ```
 <?php
@@ -27,7 +27,7 @@ public function registerBundles()
 ```
 ### Adım 3
 
-Kullanıcı sınıfımızı kendi bundle yapımız altında oluşturalım.
+Kullanıcı sınıfımızı, kendi bundle yapımız altında oluşturalım.
 
 * Doctrine ORM
 
@@ -119,7 +119,7 @@ class User extends BaseUser
 ```
 ### Adım 4
 
-security.yml dosyamızın içerisindeki herşeyi silip aşağıdaki kodları ekliyoruz.
+security.yml adlı dosyamızın içerisindeki herşeyi silip aşağıdaki kodları ekliyoruz.
 ```
 # app/config/security.yml
 security:
@@ -153,7 +153,7 @@ security:
 
 ### Adım 5
 
-config.yml dosyamızın içine aşağıdaki ayar satırlarımızı ekliyoruz.
+config.yml adlı dosyamızın içine aşağıdaki ayar satırlarımızı ekliyoruz.
 ```
 # app/config/config.yml
 fos_user:
@@ -162,7 +162,7 @@ fos_user:
     user_class: AppBundle\Entity\User
     ```
     
-Symfony projemizin yönlendirme ayarlarını algılaması için routing.yml dosyamıza aşağıdaki routing ayarlarını ekliyoruz.
+Symfony'nin, projemizdeki yönlendirme ayarlarını algılaması için routing.yml adlı dosyamıza aşağıdaki routing ayarlarını ekliyoruz.
 ```
 # app/config/routing.yml
 fos_user:
@@ -171,7 +171,7 @@ fos_user:
     
 ### Adım 6
 
-Son olarak fos user bundle kullanıcı sınıfını kullanabilmek için veritabanımızın yapısını güncelliyoruz.
+Son olarak, **fos user bundle** kullanıcı sınıfını kullanabilmek için veritabanımızın yapısını güncelliyoruz.
 
 * Doctrine ORM
 
@@ -188,7 +188,7 @@ php app/console doctrine:mongodb:schema:create --index```
 ```
 php composer.phar require willdurand/propel-typehintable-behavior```
 
-Ardından,
+Ardından;
 
 ```php app/console propel:build```
 
